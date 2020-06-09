@@ -5,7 +5,7 @@
    well-known ones with the 'yellow-gearbox', to be 'exact' ;-).
 
    An MPU6050 and the MPU6050-light library is used to get an aproximation of the
-   angle of the sensor.
+   angle of the sensor. (https://github.com/rfetick/MPU6050_light)
 
    This code is just a very simple 'proof of concept' and I wrote it to learn more
    about- and practice with- PID. The code works fine for letting the balancer stay
